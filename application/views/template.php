@@ -40,8 +40,6 @@
     }
   </style>
 </head>
-<!-- select  option boostrap 5 -->
-<select name="" id=""></select>
 
 <body class="bg-dark">
   <!-- card bootstrap  -->
