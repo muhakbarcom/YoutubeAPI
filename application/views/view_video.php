@@ -28,9 +28,7 @@
         <p class="ml-2 text-light d-inline">
           <!-- font awesome like -->
           <i class="fas fa-thumbs-down"></i>
-          <?=
-          // like count
-          number_format($video['items'][0]['statistics']['dislikeCount']) ?> dislikes
+          0 dislikes
         </p>
       </div>
     </div>
