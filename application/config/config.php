@@ -470,5 +470,5 @@ $config['time_reference'] = 'local';
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
-$config['api_yt'] = 'AIzaSyATS2wnK_S4XX9pHtZpu0uLWYU5rtvJwFc';
-$config['api_rajaongkir'] = '620c196c7c78ff3ac698650784d54405';
+$config['api_yt'] = 'xxx';
+$config['api_rajaongkir'] = 'xxx';
